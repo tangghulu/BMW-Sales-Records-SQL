@@ -1,20 +1,16 @@
 # Analyzing BMW Sales from 2010-2024 using SQL, Tableau, Excel
-This project explores **BMW’s global sales performance** over 15 years, uncovering key insights into top-selling models, regional trends, growth rates, and fuel-type distribution.  
-By combining **SQL queries**, **Excel analysis**, and **Tableau visualizations**, this analysis provides a clear, data-driven view of BMW’s evolving market strategy and consumer demand.
+This project explores BMW’s global sales performance over 15 years, uncovering key insights into top-selling models, regional trends, growth rates, and fuel-type distribution.  
+By combining SQL queries, Excel analysis, and Tableau visualizations, this analysis provides a clear, data-driven view of BMW’s evolving market strategy and consumer demand.
+![bmw-css-7-series-protection-ms-new-standard](https://github.com/user-attachments/assets/432b3afe-3712-4716-bf01-cc07e49643d5)
 
 ---
 
-## 🧠 Project Objective  
-To analyze BMW’s historical sales data (2010–2024) to answer key business questions such as:  
-- Which BMW models sold the most globally?  
-- Which year had the highest overall sales?  
-- How do sales vary across regions?  
-- What are the year-over-year growth trends?  
-- How is sales distribution changing by fuel type (e.g., petrol, diesel, hybrid, electric)?  
+## Project Objective  
+This project analyzes BMW’s global sales data from 2010 to 2024 to uncover key performance patterns, market dynamics, and consumer behavior. Using SQL for data exploration, Excel for preprocessing, and Tableau for visualization, the analysis highlights trends in model popularity, yearly growth, and evolving market preferences across regions and vehicle types.
 
 ---
 
-## 🛠️ Tools Used  
+## Tools Used  
 - **SQL** – for data querying and trend analysis  
 - **Excel** – for data cleaning and preprocessing  
 - **Tableau** – for visualization and storytelling  
