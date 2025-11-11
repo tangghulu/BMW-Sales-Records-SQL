@@ -1,19 +1,25 @@
 # Analyzing BMW Sales from 2010-2024 using SQL, Tableau, Excel
-This project explores BMW’s global sales performance over 15 years, uncovering key insights into top-selling models, regional trends, growth rates, and fuel-type distribution.  
-By combining SQL queries, Excel analysis, and Tableau visualizations, this analysis provides a clear, data-driven view of BMW’s evolving market strategy and consumer demand.
 ![bmw-css-7-series-protection-ms-new-standard](https://github.com/user-attachments/assets/432b3afe-3712-4716-bf01-cc07e49643d5)
 
 ---
 
-## Project Objective  
-This project analyzes BMW’s global sales data from 2010 to 2024 to uncover key performance patterns, market dynamics, and consumer behavior. Using SQL for data exploration, Excel for preprocessing, and Tableau for visualization, the analysis highlights trends in model popularity, yearly growth, and evolving market preferences across regions and vehicle types.
+## 🧠 Project Objective  
+
+**Business Context:**  
+BMW’s sales span multiple regions, models, and fuel types, creating a rich but complex dataset. While this information holds valuable insights into market performance and consumer behavior, it can be difficult to interpret without structured analysis. The challenge lies in transforming years of scattered sales data into a clear picture of how BMW’s lineup performs across time, geography, and technology.  
+
+**Approach:**  
+This project uses data analytics to make BMW’s sales story easier to understand. Using **SQL** for data exploration and aggregation, I identified patterns such as top-performing models, yearly growth rates, and emerging sales trends. The cleaned data was then visualized in **Tableau**, highlighting regional performance, consumer preferences, and shifts in demand over time. Together, these tools turn BMW’s raw data into interactive visuals that reveal how and where the brand is growing — and where new opportunities may lie.
 
 ---
 
-## Tools Used  
+## Tools Used + Links 
 - **SQL** – for data querying and trend analysis  
 - **Excel** – for data cleaning and preprocessing  
 - **Tableau** – for visualization and storytelling  
+
+BMW Dashboard (Tableau) - https://public.tableau.com/app/profile/jasmine.qin/viz/BMWWorldwideSalesRecords/Dashboard1
+Dataset Used (Kaggle) - https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024/data
 
 ---
 
